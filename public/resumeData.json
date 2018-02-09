@@ -1,0 +1,239 @@
+{
+  "main": {
+    "name":"Nico Alimin",
+    "occupation":"Computer Science Graduate from the University of British Columbia, with Minor in Commerce",
+    "description":"I am a machine learning enthusiast with ability to code in Python, Java, C++, C, HTML, CSS, Javascript",
+    "image":"profilepic.jpg",
+    "bio":"Nico is a machine learning enthusiast who possess intermediate TensorFlow and Python skills with experience with several projects related to that matter. He has worked at several multinational companies as an intern, as well as several hackathons, where he contributed his skills in team projects. Nico holds a Bachelor of Science in computer science from the University of British Columbia, along with a Minor in Commerce.",
+    "email": "nicoalimin@yahoo.com",
+    "phone": "604-723-5135",
+    "address":{
+      "street":"1011 E 11th Ave",
+      "city":"Vancouver",
+      "state":"BC",
+      "zip": "V5T 2G1"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumeDownload":"https://drive.google.com/file/d/1uGUadcHzEoF-RsJs-18159WqgZmIpAZe/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/nicoalimin19",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NicoAlimin",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"https://plus.google.com/u/0/100149361545496275704",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nicoalimin/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nicoalimin/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/nicoalimin",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"University of British Columbia",
+        "degree":"Bachelor of Science, Computer Science Major, Commerce Minor",
+        "graduated":"December 2017",
+        "description":""
+    },
+      {
+        "school":"Binus International School Jakarta",
+        "degree":"International Baccalaureate Degree",
+        "graduated":"May 2014",
+        "description":""
+    }
+    ],
+    "work":[
+      {
+        "company":"Sinarmas Insurance",
+        "title":"Java Developer Intern",
+        "years":"July 2016 - August 2016",
+        "description":"Gained knowledge on PEGA systems and Java. Assisted in the company-wide migration from Java to PEGA systems both front-end and back-end. Taken part in a specialized internship schedule, being placed in every department in the company to be familiar in all possible position in a large company that has over 1 million employees nationwide."
+    },
+      {
+        "company":"Sinarmas Securities",
+        "title":"Full Stack Intern",
+        "years":"May 2015 - June 2015",
+        "description": "Being exposed to agile programming, participating in two sprints on developing an internal stock management system using Java. Gained knowledge in debugging and testing of various parts of a web application that uses JavaScript, CSS, and HTML. Learnt to potimize SEO scores on the User Interface, as well as a finding out possible improvements by using a Consumer-Centric approach"
+      }
+    ],"competitions":[
+      {
+        "company":"nwHacks",
+        "title":"github.com/DuncanKeith/TransferPix",
+        "years":"Jan 2018",
+        "description":"Made my own implementation of 'Artistic Style Transfer' using Tensorflow, Python, and the VGG16 Neural Network Model. Gained knowledge on machine learning and deep learning, with various methods to train the data, as well as real-world applications of these technology"
+      },
+      {
+        "company":"UBC Local Hack Day",
+        "title":"github.com/nicoalimin/Finding_Nico",
+        "years":"Nov 2017",
+        "description":"Used CSS, JavaScript, and HTML to make a simple game of triangulation. Collaborated with three other people and one mentor to make this game possible. To play this game, download the index.html file in the link below, open the file using any web browser, and follow the prompts on the screen."
+      },
+      {
+        "company":"Biztech x Deloitte ThinkTech Case Competition",
+        "title":"Deloitte Consulting",
+        "years":"Oct 2017 - Nov 2017",
+        "description":"Collaborated with commerce and computer science students alike into making a working prototype that addresses a fintech problem a client is currently facing. Learnt to solve a problem methodologically using a Customer-Centric approach, by incorporating useful feedback from mentors and peers into producing a usable product that has business value. Gained presentation and pitching skills to multiple judges across different backgrounds. Learnt to improvise on-the-go to answer unexpected questions using strong logical thinking and mastery of the pitched subject."
+      },
+      {
+        "company":"CCC x Telus Case Competition",
+        "title":"TELUS",
+        "years":"Oct 2017",
+        "description":"Conducted market research on TELUS products as well as its competitors, used various business tools to assess each products' advantages and disadvantages. Learnt to apply strategic management for TELUS' next steps in gaining market share on the ever-changing demographic segment its products are currently targeting. Practiced public speaking and pitching an idea, discussing its advantages, disadvantages, and possible counterarguments. Gained ability to utilize all facts and supporting arguments to construct a coherent and efficient response on possible questions/discrepancies."
+      }
+    ],
+    "projects":[
+    	{
+    		"title": "University-wide Course Scheduler",
+    		"link": "https://github.com/nicoalimin/Course_Room_Scheduler_UBC",
+    		"description": "Implemented a parser for all the rooms and courses in UBC and schedule them effectively using TypeScript, AJAX, and HTML for the front-end. Used JSON and C for the back-end. Learnt a full-stack development from back-end to front-end. Managed a large database to produce an efficient filter that can create an optimized schedule based on the filtered courses and rooms in UBC."
+    	},
+    	{
+    		"title": "Website Creation and Maintenance",
+    		"description": "Created and maintained the currently-deactivated gisaubc.com for new Indonesian students coming to UBC. Learnt to use website hosting using MySQL, PHP, and Search Engine Optimization for the back-end, and JavaScript and HTML for the front-end."
+    	},
+    	{
+    		"title": "London Transit Map on Android",
+    		"description": "Used real-time data from The London Underground to determine optimal route using Java and Eclipse. Used a virtual machine to simulate an Android phone"
+    	}
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"HTML",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Coffee Cup",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustrator",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Design",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Farmer Boy",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Girl",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Origami",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Retrocam",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
