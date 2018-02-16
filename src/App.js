@@ -9,6 +9,7 @@ import Footer from './Components/Footer';
 import Portfolio from './Components/Portfolio';
 import Resume from './Components/Resume';
 import Testimonials from './Components/Testimonials';
+import _ from 'lodash';
 
 class App extends Component {
   constructor(props){
